@@ -1,0 +1,14 @@
+.venv/
+data/
+.env
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.coverage
+
+# material do curso (fora do projeto)
+pipeline-olist/
+dados/
+docs/
+explorar_geo.py
+resultado_geo.txt
